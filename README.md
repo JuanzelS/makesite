@@ -91,7 +91,7 @@ If you get stuck on any step, be sure to print the output to `stdout`!
 - [ ] Add any third party library to your project to enhance it's functionality. Some ideas you might consider include **_(CHOOSE ONLY ONE)_**:
     - [ ] Translating page content using Google Translate.
     - [ ] Parse Markdown (`.md`) files and transform them into HTML. `#` through `######` should translate to `<h1>` through `<h6>` elements.
-    - [ ] **_FILL IN THE BLANK_**: `I will use the __________________________________ library. The documentation is located at __________________________________. My goal is to use it to __________________________________.`
+    - [ ] **_FILL IN THE BLANK_**: `I will use the goldmark library library. The documentation is located at https://pkg.go.dev/github.com/yuin/goldmark. My goal is to use it toparse Markdown (.md) files and convert headings, lists, etc. into valid HTML.`
 - [ ] **Add, commit, and push to GitHub**.
 
 ## Resources
